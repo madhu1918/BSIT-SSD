@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Low-Level-Design-Design-Patterns-MVP",
+		"activityType":"video",
+		"videoURL":"/Video on Low-Level-Design-Design-Patterns-MVP.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Low-Level-Design-Design-Patterns-MVP"
+		}
+		]
+	}
+]

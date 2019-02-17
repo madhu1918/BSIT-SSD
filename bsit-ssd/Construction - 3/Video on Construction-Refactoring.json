@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Construction-Refactoring",
+		"activityType":"video",
+		"videoURL":"/Video on Construction-Refactoring.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Construction-Refactoring"
+		}
+		]
+	}
+]

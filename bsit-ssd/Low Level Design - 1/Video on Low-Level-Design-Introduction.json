@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Low-Level-Design-Introduction",
+		"activityType":"video",
+		"videoURL":"/Video on Low-Level-Design-Introduction.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Low-Level-Design-Introduction"
+		}
+		]
+	}
+]

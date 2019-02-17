@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Construction-Static-Analysis-and-Linters",
+		"activityType":"video",
+		"videoURL":"/Video on Construction-Static-Analysis-and-Linters.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Construction-Static-Analysis-and-Linters"
+		}
+		]
+	}
+]

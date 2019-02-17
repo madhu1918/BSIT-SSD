@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Construction-Introduction-to-Construction",
+		"activityType":"video",
+		"videoURL":"/Video on Construction-Introduction-to-Construction.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Construction-Introduction-to-Construction"
+		}
+		]
+	}
+]

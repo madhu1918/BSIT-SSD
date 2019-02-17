@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Construction-Non-Structural-Properties-Readability",
+		"activityType":"video",
+		"videoURL":"/Video on Construction-Non-Structural-Properties-Readability.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Construction-Non-Structural-Properties-Readability"
+		}
+		]
+	}
+]

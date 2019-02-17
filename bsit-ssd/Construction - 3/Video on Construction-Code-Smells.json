@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Construction-Code-Smells",
+		"activityType":"video",
+		"videoURL":"/Video on Construction-Code-Smells.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Construction-Code-Smells"
+		}
+		]
+	}
+]
