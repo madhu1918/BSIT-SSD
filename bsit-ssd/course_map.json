@@ -1,0 +1,249 @@
+{
+    "activities": [],
+    "learningObjectives": [
+    ],
+    "overview": [
+    ],
+    "title": "SOFTWARE SYSTEM DESIGN",
+    "units": [
+            {
+            "activities": [
+                "Video on Software-Engineering-Course-Introduction",
+                "Video on Introduction-Running-Example",
+                "Video on Introduction-to-Programming-Languages",
+                "Video on Introduction-to-Concurrency-and-Asynchronous-Development-Part-1",
+                "Video on Introduction-to-Concurrency-and-Async-Part-2",
+                "Video on Introduction-to-Concurrency-and-Async-Part-3"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Introduction"
+        },
+        {
+            "activities": [
+                "Video on Process-Why-Process",
+                "Video on Process-Traditional-Processes-Waterfall",
+                "Video on Process-Traditional-Processes-Spiral"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Process - 1"
+        },
+        {
+            "activities": [
+                "Video on Process-Agile-Processes-XP",
+                "Video on Process-Agile-Processes-TDD",
+                "Video on Agile-Processes-Scrum"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Process - 2"
+        },
+        {
+            "activities": [
+                "Video on Specifications-Intro-to-Specifications",
+                "Video on Specifications-Requirements-Process",
+                "Video on Specifications-Requirements-Properties",
+                "Video on Specifications-Requirements-Elicitation",
+                "Video on Specifications-Additional-Requirements"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Specifications - 1"
+        },
+        {
+            "activities": [
+                "Video on Specification-Validating-Requirements",
+                "Video on Specifications-User-Stories",
+                "Video on Specifications-INVEST-Guidelines",
+                "Video on User-Story-and-INVEST-Example"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Specifications - 2"
+        },
+        {
+            "activities": [
+                "Video on Specification-Decomposing-User-Stories-Part-1",
+                "Video on Specification-Decomposing-User-Stories-Part-2",
+                "Video on Specifications-Decomposing-User-Stories-Part-3",
+                "Video on Specifications-Decomposing-User-Stories-Part-4",
+                "Video on Specifications-Decomposing-User-Stories-Part-5"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Specifications - 3"
+        },
+        {
+            "activities": [
+                "Video on Testing-Why-Test",
+                "Video on Testing-Properties-and-Process-Terminology",
+                "Video on Testing-Properties-and-Process-Properties-of-Tests",
+                "Video on Testing-Kinds-of-Tests",
+                "Video on Testing-Unit-and-System-Properties",
+                "Video on Testing-Red-Green-Refactor",
+                "Video on Testing-Introduction-to-Coverage",
+                "Video on Testing-Line-and-Statement-Coverage"
+
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Testing - 1"
+        },
+        {
+            "activities": [
+                "Video on Testing-Branch-and-Path-Coverage",
+                "Video on Testing-Coverage-Wrap-Up",
+                "Video on Testing-Black-Box-Equivalence-Class-Partitioning",
+                "Video on Testing-Black-Box-Input-Partitioning",
+                "Video on Testing-Black-Box-Output-Partitioning"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Testing - 2"
+        },
+        {
+            "activities": [
+                "Video on Testing-Black-Box-Boundary-Value-Analysis",
+                "Video on Testing-Assertions",
+                "Video on Testing-Assertions-Example",
+                "Video on Testing-Testability-Introduction",
+                "Video on Testing-Testability-Controllability"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Testing - 3"
+        },
+        {
+            "activities": [
+                "Video on Testing-Testability-Observability",
+                "Video on Testing-Testability-Isolateability",
+                "Video on Testing-Testability-Isolateability-Screencast",
+                "Video on Testing-Testability-Automatability",
+                "Video on Testing-Testability-Wrap-Up"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Testing - 4"
+        },
+         {
+            "activities": [
+                "Video on High-Level-Design-Abstraction-Introduction",
+                "Video on High-Level-Design-Abstraction-Structured-Programming",
+                "Video on High-Level-Design-Abstraction-Decomposition",
+                "Video on High-Level-Design-Abstraction-Encapsulation",
+                "Video on High-Level-Design-Abstraction-Information-Hiding",
+                "Video on High-Level-Design-Abstraction-Constant-Change",
+                "Video on High-Level-Design-Technical-Representations",
+                "Video on High-Level-Design-Technical-Representations-Diagrams"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "High Level Design - 1"
+        },
+         {
+            "activities": [
+                "Video on High-Level-Design-Technical-Representations-Views",
+                "Video on High-Level-Design-Technical-Representations-Static-Dynamic",
+                "Video on High-Level-Design-Technical-Representations-Deployment-Diagrams",
+                "Video on High-Level-Design-Technical-Representations-State-Machine-Diagrams",
+                "Video on High-Level-Design-APIs-Introduction"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "High Level Design - 2"
+        },
+         {
+            "activities": [
+                "Video on High-Level-Design-APIs-High-Level-API-Design",
+                "Video on High-Level-Design-API-Low-Level-Design",
+                "Video on  High-Level-Design-API-Design-Process",
+                "Video on  High-Level-Design-API-Usability",
+                "Video on High-Level-Design-API-Platforms-and-Summary"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "High Level Design - 3"
+        },
+         {
+            "activities": [
+                "Video on High-Level-Design-REST-Development-Part-1",
+                "Video on High-Level-Design-REST-Development-Part-2",
+                "Video on High-Level-Design-REST-Development-Part-3",
+                "Video on High-Level-Design-Coupling-Part-1",
+                "Video on High-Level-Design-Coupling-Part-2",
+                "Video on High-Level-Design-Cohesion-Part-1",
+                "Video on High-Level-Design-Cohesion-Part-2"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "High Level Design - 4"
+        },
+        {
+            "activities": [
+                "Video on High-Level-Design-Design-Guidance-and-Symptoms",
+                "Video on High-Level-Design-Design-Principles-Single-Responsibility",
+                "Video on High-Level-Design-Design-Principles-Open-Closed",
+                "Video on High-Level-Design-Design-Principles-Liskov-Substitution",
+                "Video on High-Level-Design-Design-Principles-Interface-Segregation",
+                "Video on High-Level-Design-Design-Principles-Dependency-Inversion"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "High Level Design - 5"
+        },
+        {
+            "activities": [
+                "Video on Low-Level-Design-Introduction",
+                "Video on Low-Level-Design-Design-Patterns-Overview",
+                "Video on Low-Level-Design-Design-Patterns-Singleton",
+                "Video on Low-Level-Design-Design-Patterns-Strategy",
+                "Video on Low-Level-Design-Design-Patterns-State",
+                "Video on Low-Level-Design-Design-Patterns-State-and-Strategy"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Low Level Design - 1"
+        },
+        {
+            "activities": [
+                "Video on Low-Level-Design-Design-Patterns-Facade",
+                "Video on Low-Level-Design-Design-Patterns-Decorator",
+                "Video on Low-Level-Design-Design-Patterns-MVC",
+                "Video on Low-Level-Design-Design-Patterns-MVP",
+                "Video on Low-Level-Design-Design-Patterns-MVC-and-MVP"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Low Level Design - 2"
+        },
+        {
+            "activities": [
+                "Video on Construction-Introduction-to-Construction",
+                "Video on Construction-Non-Structural-Properties-Readability"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Construction - 1"
+        },
+        {
+            "activities": [
+                "Video on Construction-Static-Analysis-and-Linters",
+                "Video on Construction-Automation"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Construction - 2"
+        },
+        {
+            "activities": [
+                "Video on Construction-Code-Smells",
+                "Video on Construction-Refactoring"
+            ],
+            "learningObjectives": [],
+            "overview": [],
+            "title": "Construction - 3"
+        }
+        
+    ]
+}
