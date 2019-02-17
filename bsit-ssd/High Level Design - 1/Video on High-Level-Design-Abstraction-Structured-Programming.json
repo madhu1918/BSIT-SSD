@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on High-Level-Design-Abstraction-Structured-Programming",
+		"activityType":"video",
+		"videoURL":"/Video on High-Level-Design-Abstraction-Structured-Programming.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on High-Level-Design-Abstraction-Structured-Programming"
+		}
+		]
+	}
+]

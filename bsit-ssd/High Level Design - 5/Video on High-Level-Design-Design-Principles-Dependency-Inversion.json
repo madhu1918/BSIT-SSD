@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on High-Level-Design-Design-Principles-Dependency-Inversion",
+		"activityType":"video",
+		"videoURL":"/Video on High-Level-Design-Design-Principles-Dependency-Inversion.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on High-Level-Design-Design-Principles-Dependency-Inversion"
+		}
+		]
+	}
+]

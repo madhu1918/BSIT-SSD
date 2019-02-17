@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on High-Level-Design-Design-Principles-Single-Responsibility",
+		"activityType":"video",
+		"videoURL":"/Video on High-Level-Design-Design-Principles-Single-Responsibility.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on High-Level-Design-Design-Principles-Single-Responsibility"
+		}
+		]
+	}
+]

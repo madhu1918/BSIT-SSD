@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on High-Level-Design-Design-Principles-Open-Closed",
+		"activityType":"video",
+		"videoURL":"/Video on High-Level-Design-Design-Principles-Open-Closed.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on High-Level-Design-Design-Principles-Open-Closed"
+		}
+		]
+	}
+]

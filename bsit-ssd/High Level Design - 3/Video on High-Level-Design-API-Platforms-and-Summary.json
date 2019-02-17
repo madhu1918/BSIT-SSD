@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on High-Level-Design-API-Platforms-and-Summary",
+		"activityType":"video",
+		"videoURL":"/Video on High-Level-Design-API-Platforms-and-Summary.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on High-Level-Design-API-Platforms-and-Summary"
+		}
+		]
+	}
+]
