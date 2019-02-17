@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Testing-Black-Box-Output-Partitioning",
+		"activityType":"video",
+		"videoURL":"/Video on Testing-Black-Box-Output-Partitioning.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Testing-Black-Box-Output-Partitioning"
+		}
+		]
+	}
+]

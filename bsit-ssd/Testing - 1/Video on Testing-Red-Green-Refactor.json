@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Testing-Unit-and-System-Properties",
+		"activityType":"video",
+		"videoURL":"/Video on Testing-Red-Green-Refactor.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Testing-Red-Green-Refactor"
+		}
+		]
+	}
+]

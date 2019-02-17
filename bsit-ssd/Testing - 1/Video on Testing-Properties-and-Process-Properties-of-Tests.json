@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Testing-Properties-and-Process-Properties-of-Tests",
+		"activityType":"video",
+		"videoURL":"/Video on Testing-Properties-and-Process-Properties-of-Tests.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Testing-Properties-and-Process-Properties-of-Tests"
+		}
+		]
+	}
+]

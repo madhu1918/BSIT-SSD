@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Testing-Introduction-to-Coverage",
+		"activityType":"video",
+		"videoURL":"/Video on Testing-Introduction-to-Coverage.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Testing-Introduction-to-Coverage"
+		}
+		]
+	}
+]

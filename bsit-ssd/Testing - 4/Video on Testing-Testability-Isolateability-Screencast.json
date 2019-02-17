@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Testing-Testability-Isolateability-Screencast",
+		"activityType":"video",
+		"videoURL":"/Video on Testing-Testability-Isolateability-Screencast.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Testing-Testability-Isolateability-Screencast"
+		}
+		]
+	}
+]

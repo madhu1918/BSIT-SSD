@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Testing-Branch-and-Path-Coverage",
+		"activityType":"video",
+		"videoURL":"/Video on Testing-Branch-and-Path-Coverage.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Testing-Branch-and-Path-Coverage"
+		}
+		]
+	}
+]

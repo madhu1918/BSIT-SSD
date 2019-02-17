@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Testing-Properties-and-Process-Terminology",
+		"activityType":"video",
+		"videoURL":"/Video on Testing-Properties-and-Process-Terminology.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Testing-Properties-and-Process-Terminology"
+		}
+		]
+	}
+]

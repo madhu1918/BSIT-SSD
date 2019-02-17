@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Testing-Black-Box-Boundary-Value-Analysis",
+		"activityType":"video",
+		"videoURL":"/Video on Testing-Black-Box-Boundary-Value-Analysis.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Testing-Black-Box-Boundary-Value-Analysis"
+		}
+		]
+	}
+]
