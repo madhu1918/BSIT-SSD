@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Software-Engineering-Course-Introduction",
+		"activityType":"video",
+		"videoURL":"/Video on Software-Engineering-Course-Introduction.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Software-Engineering-Course-Introduction"
+		}
+		]
+	}
+]

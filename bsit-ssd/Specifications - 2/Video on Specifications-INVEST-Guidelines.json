@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Specifications-INVEST-Guidelines",
+		"activityType":"video",
+		"videoURL":"/Video on Specifications-INVEST-Guidelines.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Specifications-INVEST-Guidelines"
+		}
+		]
+	}
+]

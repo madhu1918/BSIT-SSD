@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Specifications-Requirements-Properties",
+		"activityType":"video",
+		"videoURL":"/Video on Specifications-Requirements-Properties.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Specifications-Requirements-Properties"
+		}
+		]
+	}
+]

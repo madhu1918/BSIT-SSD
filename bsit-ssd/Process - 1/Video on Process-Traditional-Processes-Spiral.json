@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Process-Traditional-Processes-Spiral",
+		"activityType":"video",
+		"videoURL":"/Video on Process-Traditional-Processes-Spiral.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Process-Traditional-Processes-Spiral"
+		}
+		]
+	}
+]

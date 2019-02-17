@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Specifications-Decomposing-User-Stories-Part-3",
+		"activityType":"video",
+		"videoURL":"/Video on Specifications-Decomposing-User-Stories-Part-3.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Specifications-Decomposing-User-Stories-Part-3"
+		}
+		]
+	}
+]

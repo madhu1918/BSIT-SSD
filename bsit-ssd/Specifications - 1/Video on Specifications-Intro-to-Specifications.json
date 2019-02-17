@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Specifications-Intro-to-Specifications",
+		"activityType":"video",
+		"videoURL":"/Video on Specifications-Intro-to-Specifications.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Specifications-Intro-to-Specifications"
+		}
+		]
+	}
+]

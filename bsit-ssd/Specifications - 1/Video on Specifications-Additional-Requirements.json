@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Specifications-Additional-Requirements",
+		"activityType":"video",
+		"videoURL":"/Video on Specifications-Additional-Requirements.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Specifications-Additional-Requirements"
+		}
+		]
+	}
+]

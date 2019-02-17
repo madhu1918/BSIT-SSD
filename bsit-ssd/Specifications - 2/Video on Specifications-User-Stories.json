@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Specifications-User-Stories",
+		"activityType":"video",
+		"videoURL":"/Video on Specifications-User-Stories.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Specifications-User-Stories"
+		}
+		]
+	}
+]

@@ -1,0 +1,16 @@
+[
+	{
+		"title":"Video on Specification-Validating-Requirements",
+		"activityType":"video",
+		"videoURL":"/Video on Specification-Validating-Requirements.mp4"
+	},
+	{
+		"activityType":"quiz",
+		"questions": [
+		{
+			"questionType":"summarize",
+			"questionText":"Summarize the Video on Specification-Validating-Requirements"
+		}
+		]
+	}
+]
